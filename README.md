@@ -1,4 +1,4 @@
-# Play Prediction with Bayesian Personalised Ranking (BPR)
+# Play Prediction with Bayesian Personalized Ranking (BPR)
 Bayesian Personalized Ranking for predicting whether a user would play a game.
 
 Recently, I participated in a Kaggle contest hosted by UC San Diego as part of the curriculum about Recommender Systems & Web Mining.
